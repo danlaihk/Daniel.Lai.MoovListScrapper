@@ -8,6 +8,7 @@ A console app to export the song list with song name and artist into a CSV file.
 **How to use**
 Go to the song list page, click share and copy the share link:
 ![image](https://github.com/user-attachments/assets/37bc3925-5470-4b7b-b14f-21f547cc6f3a)
+![image](https://github.com/user-attachments/assets/e8b392a4-5f80-4874-a901-606a65ca5fa3)
 
 Click the built application in output directory (e.g <project root>\bin\Release\net8.0 or <project root>\bin\Debug\net8.0)
 ![image](https://github.com/user-attachments/assets/7865a294-41f0-47f6-b740-d05089f73dd1)
