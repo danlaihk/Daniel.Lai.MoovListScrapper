@@ -14,6 +14,7 @@ Click the built application in output directory (e.g <project root>\bin\Release\
 ![image](https://github.com/user-attachments/assets/7865a294-41f0-47f6-b740-d05089f73dd1)
 
 Input url and output filepath (please use absolute path) and press enter step by step:
+*Please verift the output directory is correct and the file is not exist.
 ![image](https://github.com/user-attachments/assets/f44b7fac-dd93-4b11-8367-6350a2db4a6a)
 
 A Edge browser will pop up for scrapping.
